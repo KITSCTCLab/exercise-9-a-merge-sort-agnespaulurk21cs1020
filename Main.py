@@ -1,7 +1,7 @@
 from typing import List
 
 def merge_sort(data) -> None:
- def merge_Sort(myList) -> None:
+ def merge_sort(myList) -> None:
   if len(myList) > 1:
         mid = len(myList) // 2
         left = myList[:mid]
